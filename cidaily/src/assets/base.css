@@ -1,0 +1,9 @@
+/* 先把浏览器默认的样式清除 */
+*{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+}
